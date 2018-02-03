@@ -63,7 +63,7 @@ $method = $_SERVER['REQUEST_METHOD'];
 }
 //else
 {
-	echo "Method not allowed";
+	//echo "Method not allowed";
 }
 
 ?>
